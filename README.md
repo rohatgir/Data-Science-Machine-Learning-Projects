@@ -1,4 +1,4 @@
-# Data-Science-&-Machine-Learning-Projects
+# Data Science & Machine Learning Projects
 Course: MIE1642 Intro to Data Science - University of Toronto
 
 Date: Sept 2017 - Dec 2017
