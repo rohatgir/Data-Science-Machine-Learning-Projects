@@ -5,9 +5,13 @@ Date: Sept 2017 - Dec 2017
 
 The following repository contains two projects/assignment.
 
-Assignment 1: Created IPython Notebook script to conduct Twitter Sentimental Analysis of 2015 Canadian Election. Please see PDF Assignment 1 for further details.
+Text Sentiment Analysis: Created IPython Notebook script to conduct Twitter Sentimental Analysis of 2015 Canadian Election. Please refer to tweets.zip for data. 
+    Training dataset: classified_tweets.txt
+    Test dataset: unclassified_tweets.txt
 
-Assignment 2: Coded an IPython Notebook to predict a person’s income bracket depending on data given. Please see PDF Assignment 2 for further details.
+Income Bracket Classifier: Coded an IPython Notebook to predict a person’s income bracket based on USA Census Income survey. Please refer to income.zip for data. 
+    Training dataset: income-training.csv
+    Test dataset: income-testing.csv
 
 2017
 Rahul R.
